@@ -1,0 +1,221 @@
+.upperbar
+{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.upperbar:hover {
+    background: greenyellow;
+   	
+    transition: .5s;
+}
+.image1
+{
+    box-shadow: 0 4px 8px 0 rgba(150, 13, 13, 0.8), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.image1:hover {
+    background: greenyellow;
+   	
+    transition: .5s;
+}
+.image2
+{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.8), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.image2:hover {
+    background: greenyellow;
+   	
+    transition: .5s;
+}
+.image3
+{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.8), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.image3:hover {
+    background: greenyellow;
+   	
+    transition: .5s;
+}
+.image4
+{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.8), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.image4:hover {
+    background: greenyellow;
+   	
+    transition: .5s;
+}
+.image5
+{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.8), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.image5:hover {
+    background: greenyellow;
+   	
+    transition: .5s;
+}
+
+  .toggle--button{
+    height: 15px;
+    width: 15px;
+    margin-top: 15%;
+    border: none;
+    margin-top: 620px;
+    left: 200px;
+    position:absolute;
+    font-size: 25px;
+    background-color:black;
+    color: white;
+
+    
+    cursor: pointer;
+    
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+  
+  .toggle--close{
+    background-color: red;
+  }
+  .toggle--button1{
+    height: 15px;
+    width: 15px;
+    margin-top: 15%;
+    border: none;
+    bottom: 7px;
+    left: 25px;
+    position:relative;
+    font-size: 25px;
+    background-color:transparent;
+    color: black;
+
+    
+    cursor: pointer;
+    
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+  
+  .toggle--close1{
+    color:red;
+  }
+  .toggle--button2{
+    height: 15px;
+    width: 15px;
+    margin-top: 15%;
+    border: none;
+    margin-top: 690px;
+    left: 200px;
+    position:absolute;
+    font-size: 25px;
+    background-color:black;
+    color: white;
+
+    
+    cursor: pointer;
+    
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+  
+  .toggle--close2{
+    background-color: black;
+  }
+  .toggle--button3{
+    height: 15px;
+    width: 15px;
+    margin-top: 15%;
+    border: none;
+    bottom: 7px;
+    left: 35px;
+    position:relative;
+    font-size: 25px;
+    background-color:transparent;
+    color: black;
+
+    
+    cursor: pointer;
+    
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+  
+  .toggle--close3{
+    color:black;
+  }
+  .toggle--button4{
+    height: 15px;
+    width: 15px;
+    margin-top: 15%;
+    border: none;
+    margin-top: 770px;
+    left: 200px;
+    position:absolute;
+    font-size: 25px;
+    background-color:black;
+    color: white;
+
+    
+    cursor: pointer;
+    
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+  
+  .toggle--close4{
+    background-color: black;
+  }
+  .toggle--button5{
+    height: 15px;
+    width: 15px;
+    margin-top: 15%;
+    border: none;
+    bottom: 7px;
+    left: 35px;
+    position:relative;
+    font-size: 25px;
+    background-color:transparent;
+    color: black;
+
+    
+    cursor: pointer;
+    
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+  
+  .toggle--close5{
+    color:black;
+  }
+ 
+ 
+  
+  
